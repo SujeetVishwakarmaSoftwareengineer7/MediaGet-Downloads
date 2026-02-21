@@ -1,0 +1,3 @@
+- Learned how to take input using cin
+- Used variables and operators
+- Understood basic program structure in C++
