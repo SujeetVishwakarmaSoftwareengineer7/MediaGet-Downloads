@@ -1,0 +1,5 @@
+Add two numbers entered by the user and display the result.
+
+Extra thinking:
+- Input validation
+- User-friendly output
