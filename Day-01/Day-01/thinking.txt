@@ -1,0 +1,7 @@
+To add two numbers:
+1. Take two inputs from the user
+2. Store them in variables
+3. Add them using + operator
+4. Display the result
+
+This problem helps understand basic input, output and operators.
