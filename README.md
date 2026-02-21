@@ -7,7 +7,8 @@ The goal is not quantity of code, but clarity of thought.
 
 ---
 
-## 📂 Repository Structure
+ 
+* Repository Structure
 Each day has its own folder:
 
 - problem.txt   → problem statement
@@ -17,7 +18,7 @@ Each day has its own folder:
 
 ---
 
-## 🎯 Focus Areas
+* Focus Areas
 - Core C++ fundamentals
 - Problem-solving mindset
 - Consistent daily practice
@@ -25,7 +26,7 @@ Each day has its own folder:
 
 ---
 
-## 🔁 Consistency Rule
+* Consistency Rule
 - One problem per day
 - One meaningful commit per day
 - No skipped explanations
